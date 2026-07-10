@@ -1,0 +1,8 @@
+﻿start,end,engagement,points
+0,6,very_low,0
+6,9,medium,7
+9,12,high,10
+12,14,peak,15
+14,17,high,10
+17,22,peak,15
+22,24,low,3
